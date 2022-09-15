@@ -1,0 +1,35 @@
+*
+{
+    background-color: antiquewhite;
+}
+
+body {
+    color: blue;
+  }
+
+  body {
+    text-indent: 50px;
+  }
+
+  body.oblique {
+    font-style: oblique;
+  }
+
+  body {
+    margin: auto;
+    width: 80%;
+    border: 10px solid rgb(red , green, blue);
+    padding: 1px;
+  }
+
+  button {
+    background-color: #f1f51e; /* Green */
+    width:50%;
+  }
+
+  body {
+    padding-top: 160px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
